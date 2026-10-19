@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 680" role="img" aria-labelledby="title desc">
+  <title id="title">Growing fields at sunrise</title>
+  <desc id="desc">A quiet illustration of layered green farmland, a young seedling and a soft morning sun.</desc>
+  <rect width="720" height="680" fill="#e9eee4"/>
+  <circle cx="522" cy="176" r="72" fill="#d6dfc8"/>
+  <circle cx="522" cy="176" r="49" fill="#f3e7c8"/>
+  <path d="M0 354c108-47 197-63 313-39 99 20 169 14 246-13 59-21 112-28 161-12v390H0V354Z" fill="#bdcbb4"/>
+  <path d="M0 413c119-67 236-81 348-41 112 39 230 32 372-22v318H0V413Z" fill="#879b79"/>
+  <path d="M0 482c111-57 218-65 332-26 123 42 253 37 388-17v229H0V482Z" fill="#647b5e"/>
+  <path d="M0 548c131-48 246-43 367 0 112 40 221 43 353 3v117H0V548Z" fill="#3f5b43"/>
+  <path d="M-18 674c142-30 272-20 404 9m-204-9c97-43 207-48 335-19m-120 19c79-27 172-26 266-2" fill="none" stroke="#d0d9c5" stroke-linecap="round" stroke-width="5" opacity=".72"/>
+  <path d="M465 526c4-61 22-105 57-145" fill="none" stroke="#3c5a40" stroke-linecap="round" stroke-width="8"/>
+  <path d="M499 422c-42-2-62-23-61-59 34 2 56 21 61 59Z" fill="#526e4d"/>
+  <path d="M511 400c8-39 31-58 68-54-5 35-28 54-68 54Z" fill="#718c63"/>
+  <path d="M498 445c-34-1-51-16-53-45 30 1 49 16 53 45Z" fill="#879b79"/>
+  <path d="M521 378c8-34 28-50 59-46-5 29-25 45-59 46Z" fill="#536f4e"/>
+  <path d="M36 140c41-39 94-55 158-46" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2" opacity=".55"/>
+  <path d="M54 162c29-25 67-36 111-33" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2" opacity=".38"/>
+  <path d="M575 294h92m-58 20h53" fill="none" stroke="#879b79" stroke-linecap="round" stroke-width="2" opacity=".65"/>
+  <path d="M70 308h58m-34 17h33" fill="none" stroke="#879b79" stroke-linecap="round" stroke-width="2" opacity=".5"/>
+</svg>

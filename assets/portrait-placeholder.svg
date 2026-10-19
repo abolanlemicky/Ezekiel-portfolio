@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait placeholder</title>
+  <desc id="desc">An abstract, neutral-toned person silhouette with botanical details, intended to be replaced by a professional photograph.</desc>
+  <rect width="600" height="750" fill="#e9eee4"/>
+  <path d="M0 556c89-68 173-73 264-34 101 43 209 36 336-23v251H0V556Z" fill="#d6dfd0"/>
+  <path d="M0 646c106-53 206-49 300-8 102 44 195 46 300 5v107H0V646Z" fill="#c3d0bd"/>
+  <circle cx="300" cy="281" r="128" fill="#f4f0e6"/>
+  <path d="M181 289c0-91 52-153 123-153 70 0 116 61 116 145-24-18-41-46-47-77-28 33-91 60-192 68v17Z" fill="#536d53"/>
+  <path d="M217 291c0-62 35-101 83-101s83 39 83 101v28c0 66-37 112-83 112s-83-46-83-112v-28Z" fill="#d2a98b"/>
+  <path d="M195 284c24-9 48-20 72-34 34-20 65-43 90-71 13 30 34 53 63 68l-8 45c-12-9-21-18-29-31-28 26-75 44-139 53-18 3-35 4-51 4l2-34Z" fill="#536d53"/>
+  <path d="M141 681c15-117 67-188 159-188s144 71 159 188H141Z" fill="#879b79"/>
+  <path d="M233 499c18 25 41 38 67 38s49-13 67-38l24 22c-22 43-52 67-91 67s-69-24-91-67l24-22Z" fill="#f8f7f2"/>
+  <path d="M300 535v146" stroke="#dce3d7" stroke-width="2" opacity=".75"/>
+  <path d="M75 516c41-1 63-24 66-68-42 2-65 25-66 68Zm26 45c37-13 51-43 41-83-37 14-52 43-41 83Z" fill="#879b79"/>
+  <path d="M517 435c-40-1-61-24-64-68 42 2 65 25 64 68Zm-26 45c-37-13-51-43-41-83 37 14 52 43 41 83Z" fill="#879b79"/>
+  <path d="M88 545c17-24 31-50 42-79m393 0c-17-24-31-50-42-79" fill="none" stroke="#647b5e" stroke-linecap="round" stroke-width="3"/>
+  <path d="M77 188h71m-50 18h50M449 172h74m-52 19h52" fill="none" stroke="#aebba6" stroke-linecap="round" stroke-width="2"/>
+</svg>
